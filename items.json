@@ -1,0 +1,135 @@
+[{
+    "title": "Iphone 11",
+    "price" : "500$",
+    "image": "./images/goodsImg/iphine11(black).jpg",
+    "EAN": "32112",
+    "color": "black",
+    "rate": "1",
+    "cart": "false",
+    "qtyInOrder": "0", 
+    "inFavorites": false 
+},
+{
+    "title": "Iphone 11",
+    "price" : "3000$",
+    "image": "./images/goodsImg/iphone11(blue).jpg",
+    "EAN": "321",
+    "color": "blue",
+    "rate": "1",
+    "cart": "false",
+    "qtyInOrder": "0" ,
+    "inFavorites": false 
+
+
+},
+{
+    "title": "Iphone 11",
+    "price" : "2000$",
+    "image": "./images/goodsImg/iphone11(purple).jpg",
+    "EAN": "12355132",
+    "color": "Purple",
+    "rate": "1",
+    "cart": "false",
+    "qtyInOrder": "0" ,
+    "inFavorites": false 
+
+},
+{
+    "title": "Iphone 11",
+    "price" : "1500$",
+    "image": "./images/goodsImg/iphone11(red).jpg",
+    "EAN": "123442312",
+    "color": "red",
+    "rate": "1",
+    "cart": "false",
+    "qtyInOrder": "0" ,
+    "inFavorites": false 
+
+},
+{
+    "title": "Iphone 11",
+    "price" : "700$",
+    "image": "./images/goodsImg/iphone11(white).jpg",
+    "EAN": "123123432",
+    "color": "white",
+    "rate": "1",
+    "cart": "false",
+    "qtyInOrder": "0" ,
+    "inFavorites": false 
+
+},
+
+{
+    "title": "Iphone 12",
+    "price" : "300$",
+    "image": "./images/goodsImg/iphone12(black).jpg",
+    "EAN": "123132434123",
+    "color": "black",
+    "rate": "1",
+    "cart": "false",
+    "qtyInOrder": "0" ,
+    "inFavorites": false 
+
+},
+{
+    "title": "Iphone 12",
+    "price" : "200$",
+    "image": "./images/goodsImg/iphone12(blue).jpg",
+    "EAN": "123435123123",
+    "color": "blue",
+    "rate": "1",
+    "cart": "false",
+    "qtyInOrder": "0" ,
+    "inFavorites": false 
+
+},
+{
+    "title": "Iphone 12",
+    "price" : "100$",
+    "image": "./images/goodsImg/iphone12(green).jpg",
+    "EAN": "435623132",
+    "color": "green",
+    "rate": "1",
+    "cart": "false",
+    "qtyInOrder": "0" ,
+    "inFavorites": false 
+
+},
+{
+    "title": "Iphone 12",
+    "price" : "50$",
+    "image": "./images/goodsImg/iphone12(purple).jpg",
+    "EAN": "67532231",
+    "color": "Purple",
+    "rate": "1",
+    "cart": "false",
+    "qtyInOrder": "0" ,
+    "inFavorites": false 
+
+},
+{
+    "title": "Iphone 12",
+    "price" : "1230$",
+    "image": "./images/goodsImg/iphone12(red).jpg",
+    "EAN": "4543223643223",
+    "color": "red",
+    "rate": "1",
+    "cart": "false",
+    "qtyInOrder": "0" ,
+    "inFavorites": false 
+
+},
+{
+    "title": "Iphone 12",
+    "price" : "3132$",
+    "image": "./images/goodsImg/iphone12(white).jpg",
+    "EAN": "9767832123",
+    "color": "white",
+    "rate": "1",
+    "cart": "false",
+    "qtyInOrder": "0" ,
+    "inFavorites": false 
+
+}
+
+]

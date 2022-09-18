@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/e-shop/static/css/main.e4c7bdd3.css",
+    "main.js": "/e-shop/static/js/main.250e977c.js",
+    "static/media/cross-delete.png": "/e-shop/static/media/cross-delete.a998e085330d32b6fb8a.png",
+    "static/media/instagram.svg": "/e-shop/static/media/instagram.e9d6b5424508db6397a027a4e0fe0dd0.svg",
+    "static/media/gmail.svg": "/e-shop/static/media/gmail.adb329208190ee04ebe899c57eb3c0fb.svg",
+    "static/media/twitter.svg": "/e-shop/static/media/twitter.11ac2ffb619f528ee15304f0b8881bad.svg",
+    "index.html": "/e-shop/index.html",
+    "static/media/facebook.svg": "/e-shop/static/media/facebook.ec446621c24e4a91a4a320c46c565c5c.svg",
+    "static/media/hangsout.svg": "/e-shop/static/media/hangsout.c4cbbef13c983ae9a3d7e484349bdbd9.svg",
+    "main.e4c7bdd3.css.map": "/e-shop/static/css/main.e4c7bdd3.css.map",
+    "main.250e977c.js.map": "/e-shop/static/js/main.250e977c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4c7bdd3.css",
+    "static/js/main.250e977c.js"
+  ]
+}
